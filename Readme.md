@@ -1,7 +1,7 @@
-#ISMT S-117 Text Analytics and Natural Language Processing (2020 Summer)
-##Final Project
-#Resume Screening System Using RoBERTa
-###by Micheal Choi Kwong Chak
+# ISMT S-117 Text Analytics and Natural Language Processing (2020 Summer)
+## Final Project
+# Resume Screening System Using RoBERTa
+### by Micheal Choi Kwong Chak
 
 vec2rec package: All code is in the vec2rec python package. There are 6 python notebooks:
 - [0.installation.ipynb](vec2rec/0.installation.ipynb) - Installation procedure for Colab. This is to allow the correct packages to be installed on Colab. Expected python package combination is also included.
