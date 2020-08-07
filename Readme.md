@@ -1,4 +1,4 @@
-# ISMT S-117 Text Analytics and Natural Language Processing (2020 Summer)
+## ISMT S-117 Text Analytics and Natural Language Processing (2020 Summer)
 ## Final Project
 # Resume Screening System Using RoBERTa
 ### by Micheal Choi Kwong Chak
